@@ -13,4 +13,4 @@
 - 🌍 Me gusta colaborar con otros makers en herramientas que simplifiquen la vida
 - 😄 Creo firmemente que un poco de humor puede arreglar cualquier bug
 
-Si te interesa algún proyecto o simplemente quieres charlar sobre tecnología y videojuegos, ¡estaré encantado de conectar contigo! No dudes en visitar mi [portafolio](https://github.com/NoelRDB/portfolio-noel) para conocer más sobre mí.
+Si te interesa algún proyecto o simplemente quieres charlar sobre tecnología y videojuegos, ¡estaré encantado de conectar contigo! No dudes en visitar mi [portafolio](https://github.com/NoelRDB/portfolio-noel) para conocer más sobre mí. También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/noel-roman/) para seguir mi trayectoria profesional.
