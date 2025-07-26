@@ -9,12 +9,10 @@
 ¡Bienvenido a mi rincón de GitHub! Aquí no sólo encontrarás código: también hay chistes malos, cafés fríos y proyectos **random** que nacen cuando la inspiración (o el insomnio) aprieta.
 
 #### 🔍 ¿En qué ando últimamente?
-- 🛠️ Dando caña a [Angular](https://github.com/NoelRDB/Gestion-Empleados-Angular) y a la [compresión de archivos](https://github.com/NoelRDB/Compresor_archivos_Angular).  
 - 🤖 Jugueteando con modelos GPT y APIs de OpenAI para ver qué burradas creativas salen.  
 - 🎮 Publicando ideas gamberras: echa un ojo a **[mi juego en Steam](TU_JUEGO_STEAM)**.  
 - 🌍 Colaborando con otros makers con ganas de simplificar (o complicar) la vida.  
 - 😂 Convencido de que un buen chiste arregla más bugs que `npm update`.
-
 ---
 
 ### 📫 ¡Conectemos!
