@@ -10,7 +10,7 @@
 
 #### 🔍 ¿En qué ando últimamente?
 - 🤖 Jugueteando con modelos GPT y APIs de OpenAI para ver qué burradas creativas salen.  
-- 🎮 Publicando ideas gamberras: echa un ojo a **[mi juego en Steam](TU_JUEGO_STEAM)**.  
+- 🎮 Publicando ideas gamberras: echa un ojo a **[mi juego en Steam](https://store.steampowered.com/app/3860020/Wise_in_the_Heights/)**.  
 - 🌍 Colaborando con otros makers con ganas de simplificar (o complicar) la vida.  
 - 😂 Convencido de que un buen chiste arregla más bugs que `npm update`.
 ---
