@@ -17,4 +17,4 @@
 
 ### 📫 ¡Conectemos!
 - 🌐 Visita mi [portafolio](https://comet-x9z.resiz.es/) para ver proyectos, logros y trofeos de “debug ninja”.
-- 💼 Sígueme en [LinkedIn](https://www.linkedin.com/in/noel-roman/) y no dejes que mis memes arruinen tu feed.
+- 💼 Sígueme en [LinkedIn](https://www.linkedin.com/in/noel-roman-de-benito-27b566210/) y no dejes que mis memes arruinen tu feed.
