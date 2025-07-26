@@ -1,16 +1,22 @@
-## ¡Hola! Soy Noel Román 👋
+## ¡Hola! Soy Noel Román 👋  
 
-### 🧠 Maker, programador y amante de la tecnología desde Gijón, Asturias
+### 🧠 Maker, programador, y amante de la tecnología desde Gijón (Asturias)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/yJd2Adzd6DTiQy3oZl/giphy.gif" alt="ChatGPT coding GIF" width="400"/>
 </p>
 
-¡Hola! Bienvenido a mi espacio en GitHub. Aquí no sólo encontrarás código, sino también un poco de humor. Mi misión es crear proyectos útiles y divertidos, con un toque de ironía y sinceridad.
+¡Bienvenido a mi rincón de GitHub! Aquí no sólo encontrarás código: también hay chistes malos, cafés fríos y proyectos **random** que nacen cuando la inspiración (o el insomnio) aprieta.
 
-- 🔧 Actualmente trabajando en proyectos de [Angular](https://github.com/NoelRDB/Gestion-Empleados-Angular) y [compresión de archivos](https://github.com/NoelRDB/Compresor_archivos_Angular)
-- 🎮 Disfruto explorando el mundo de los videojuegos y aplicando su lógica a mis proyectos
-- 🌍 Me gusta colaborar con otros makers en herramientas que simplifiquen la vida
-- 😄 Creo firmemente que un poco de humor puede arreglar cualquier bug
+#### 🔍 ¿En qué ando últimamente?
+- 🛠️ Dando caña a [Angular](https://github.com/NoelRDB/Gestion-Empleados-Angular) y a la [compresión de archivos](https://github.com/NoelRDB/Compresor_archivos_Angular).  
+- 🤖 Jugueteando con modelos GPT y APIs de OpenAI para ver qué burradas creativas salen.  
+- 🎮 Publicando ideas gamberras: echa un ojo a **[mi juego en Steam](TU_JUEGO_STEAM)**.  
+- 🌍 Colaborando con otros makers con ganas de simplificar (o complicar) la vida.  
+- 😂 Convencido de que un buen chiste arregla más bugs que `npm update`.
 
-Si te interesa algún proyecto o simplemente quieres charlar sobre tecnología y videojuegos, ¡estaré encantado de conectar contigo! No dudes en visitar mi [portafolio](https://github.com/NoelRDB/portfolio-noel) para conocer más sobre mí. También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/noel-roman/) para seguir mi trayectoria profesional.
+---
+
+### 📫 ¡Conectemos!
+- 🌐 Visita mi [portafolio](https://comet-x9z.resiz.es/) para ver proyectos, logros y trofeos de “debug ninja”.
+- 💼 Sígueme en [LinkedIn](https://www.linkedin.com/in/noel-roman/) y no dejes que mis memes arruinen tu feed.
